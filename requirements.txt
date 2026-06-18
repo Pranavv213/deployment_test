@@ -1,0 +1,8 @@
+fastapi
+streamlit
+uvicorn
+numpy
+scikit-learn
+pydantic
+gunicorn
+
